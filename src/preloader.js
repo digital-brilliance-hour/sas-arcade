@@ -41,7 +41,7 @@ BasicGame.Preloader.prototype = {
     this.load.audio('playerFire', ['assets/player-fire.ogg', 'assets/player-fire.wav']);
     this.load.audio('powerUp', ['assets/powerup.ogg', 'assets/powerup.wav']);
     this.load.audio('titleMusic', ['assets/bgm/titlemusic.ogg']);
-    this.load.audio('stageMusic', ['assets/bgm/stageonemusic.ogg']);
+    this.load.audio('stageMusic', ['assets/bgm/stage1-new.ogg']);
     this.load.audio('bossMusic', ['assets/bgm/bossmusic.ogg']);
     this.load.audio('gameOverMusic', ['assets/bgm/gameovermusic.mp3']);
     //  + lots of other required assets here
